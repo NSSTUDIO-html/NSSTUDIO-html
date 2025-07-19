@@ -109,9 +109,9 @@ My passion lies in building **immersive web apps**, **intelligent UIs**, and **f
 ## 🌐 Connect With Me
 
 - 📂 GitHub: [github.com/NSSTUDIO-html](https://github.com/NSSTUDIO-html)
-- 📧 Email: **your.email@example.com**
-- 🔗 LinkedIn: [Update your link here](#)
-
+- 📧 Email: **rockingshooters7@gmail.com**
+- 🔗 Instagram: [My Account IG](https://www.instagram.com/rs_risingshooters/profilecard/?igsh=ZGc5d2x1bmFibnh6)
+- 🔗 Youtube: [My YT Channel](https://youtube.com/@nstech-ns?si=MfbRmClAKd2hRR9b)
 ---
 
 ### 🏁 Features
