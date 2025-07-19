@@ -61,7 +61,7 @@ My passion lies in building **immersive web apps**, **intelligent UIs**, and **f
 <!-- Tools -->
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" /></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /></a>
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Office_2013_logo.svg" width="40" /></a>
+<a href="#"><img src="[https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Office_2013_logo.svg](https://www.flaticon.com/free-icon/office_888867?term=microsoft+office&page=1&position=2&origin=tag&related_id=888867)" width="40" /></a>
 <a href="#"><img src="https://tallysolutions.com/assets/images/favicon.png" width="40" /></a>
 <a href="#"><img src="https://raw.githubusercontent.com/mrdoob/three.js/dev/files/icon.svg" width="40" /></a>
 
