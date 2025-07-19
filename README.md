@@ -61,9 +61,9 @@ My passion lies in building **immersive web apps**, **intelligent UIs**, and **f
 <!-- Tools -->
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" /></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /></a>
-<a href="#"><img src="[https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Office_2013_logo.svg](https://www.flaticon.com/free-icon/office_888867?term=microsoft+office&page=1&position=2&origin=tag&related_id=888867)" width="70" /></a>
-<a href="#"><img src="https://tallysolutions.com/assets/images/favicon.png" width="40" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/mrdoob/three.js/dev/files/icon.svg" width="40" /></a>
+<a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_qGaG3aG8RPuXhr1uaPcLlEV2KFQ26VbICc7KQW2sgG7uKcJ4Qu2sMOU&s=10" width="40"/></a>
+<a href="#"><img src="https://apexactsoft.com/wp-content/uploads/2024/10/Tally-Prime-Logo.png" width="40" /></a>
+<a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR13xqY09XH1E0x7QDyLA31Be8osy6X9tE9h_WLoDu0VM10nU3zytOSr24&s=10" width="40" /></a>
 
 </div>
 
