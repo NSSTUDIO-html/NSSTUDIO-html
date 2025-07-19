@@ -78,17 +78,19 @@ My passion lies in building **immersive web apps**, **intelligent UIs**, and **f
 
 ### 🎥 Live Project Previews
 
-> ℹ️ If viewing this on GitHub.com, iframes won't load. Open in a markdown viewer or use a GitHub Pages site.
+> ℹ️ **Note:** Iframes do not display on GitHub.com. To view the live previews, open this file in a Markdown viewer or visit the respective GitHub Pages links.
 
-#### 🔹 BBMG Exporter
+#### 🔹 BBMG Exporter  
+🔗 [View Live](https://nsstudio-html.github.io/BBMG-EXPORTER/)  
 <iframe src="https://nsstudio-html.github.io/BBMG-EXPORTER/" width="100%" height="400" frameborder="0"></iframe>
 
-#### 🔹 Rising Shooters
+#### 🔹 Rising Shooters  
+🔗 [View Live](https://nsstudio-html.github.io/RS-RISING-SHOOTERS/)  
 <iframe src="https://nsstudio-html.github.io/RS-RISING-SHOOTERS/" width="100%" height="400" frameborder="0"></iframe>
 
-#### 🔹 NS Portfolio
+#### 🔹 NS Portfolio  
+🔗 [View Live](https://nsstudio-html.github.io/NS-PORTFOLIO/)  
 <iframe src="https://nsstudio-html.github.io/NS-PORTFOLIO/" width="100%" height="400" frameborder="0"></iframe>
-
 ---
 
 ## 📊 GitHub Stats & Tech Graphs
