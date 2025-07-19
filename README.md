@@ -1,96 +1,127 @@
-# 🚀 NSSTUDIO-html Portfolio
+<h1 align="center">🚀 NSSTUDIO-html Portfolio</h1>
 
-Welcome to my interactive portfolio! Here, you'll find an attractive showcase of my skills, technologies, and projects. Explore my journey across web development, programming, data visualization, AI, and more.
+<p align="center">
+  👋 Welcome to my creative universe! I'm <b>Naga Sasank</b>, a passionate developer blending Web Tech, AI, 3D, Cybersecurity, and UI/UX into powerful experiences.
+</p>
 
 ---
 
-## ✨ **Skills & Technologies**
+## ✨ About Me
 
-Below are the icons representing my diverse skill set.  
-*Click any icon to learn more from its official source.*
+I'm a full-stack developer, 3D web animator, and AI enthusiast.  
+My passion lies in building **immersive web apps**, **intelligent UIs**, and **futuristic experiences** using:
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+- Web Dev: HTML5, CSS3, JavaScript, React, Tailwind
+- AI/ML: TensorFlow.js, Three.js, Real-time ML
+- Game Dev: Web-based 3D Games with Mechs & Agents
+- Backend: Node.js, Express.js, MongoDB, MySQL
+- UI: Clean, animated, and responsive layouts
 
-<!-- Web Technologies -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/></a>
-<a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"/></a>
-<a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="50"/></a>
-<a href="https://reactjs.org/" title="React.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/></a>
-<a href="https://jquery.com/" title="jQuery"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50"/></a>
-<a href="https://threejs.org/" title="Three.js"><img src="https://raw.githubusercontent.com/mrdoob/three.js/dev/files/icon.svg" width="50"/></a>
-<a href="https://www.chartjs.org/" title="Chart.js"><img src="https://www.chartjs.org/media/logo-title.svg" width="50"/></a>
-<a href="https://plotly.com/javascript/" title="Plotly.js"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Plotly_logo.png" width="50"/></a>
-<a href="https://d3js.org/" title="D3.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" width="50"/></a>
-<a href="https://apexcharts.com/" title="Apexcharts"><img src="https://apexcharts.com/media/apexcharts-logo.png" width="50"/></a>
-<a href="https://developers.google.com/chart" title="Google Charts"><img src="https://www.gstatic.com/images/branding/product/2x/charts_48dp.png" width="50"/></a>
-<a href="https://www.tensorflow.org/js" title="TensorFlow.js"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50"/></a>
+---
 
-<!-- Backend & Databases -->
-<a href="https://nodejs.org/" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/></a>
-<a href="https://expressjs.com/" title="Express.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/></a>
-<a href="https://www.mongodb.com/" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/></a>
+## 🧠 Skills & Tech Stack
 
-<!-- Programming Languages -->
-<a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/></a>
-<a href="https://www.java.com/" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/></a>
-<a href="https://devdocs.io/c/" title="C Programming"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/></a>
-<a href="https://www.php.net/" title="PHP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/></a>
+<div align="center">
+
+<!-- Frontend -->
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" /></a>
+
+<!-- AI / Data -->
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" width="40" /></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Plotly_logo.png" width="40" /></a>
+<a href="#"><img src="https://www.chartjs.org/media/logo-title.svg" width="40" /></a>
+<a href="#"><img src="https://apexcharts.com/media/apexcharts-logo.png" width="40" /></a>
+
+<!-- Backend & DB -->
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /></a>
+
+<!-- Programming -->
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" /></a>
 
 <!-- Tools -->
-<a href="https://wordpress.org/" title="WordPress"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50"/></a>
-<a href="https://github.com/" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/></a>
-<a href="https://www.office.com/" title="Microsoft Office"><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Office_2013_logo.svg" width="50"/></a>
-<a href="https://tallysolutions.com/" title="Tally"><img src="https://tallysolutions.com/assets/images/favicon.png" width="50"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Office_2013_logo.svg" width="40" /></a>
+<a href="#"><img src="https://tallysolutions.com/assets/images/favicon.png" width="40" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/mrdoob/three.js/dev/files/icon.svg" width="40" /></a>
 
 </div>
 
 ---
 
-## 📚 **Modules & Concepts**
+## 💼 Featured Projects (Live Preview)
 
-- Node.js Core Modules: `os`, `path`, `http`, `fs`
-- MongoDB: CRUD Operations
-- RESTful API with Express
-- JSON, Middleware, and JWT Auth
-- Computer Fundamentals & OS Basics
-
----
-
-## 💼 **Projects Showcase**
-
-Here are some of my featured projects.  
-🔗 *Click the title to explore them.*
-
-| Project Name | Description | Tech Stack | Live Link |
-|--------------|-------------|------------|-----------|
-| **🎨 NSSTUDIO Portfolio** | Responsive, interactive developer portfolio site. | React.js, Tailwind CSS | [View](https://nsstudio-html.github.io/NSSTUDIO-html) |
-| **📊 Data Dashboard** | Charts and graphs with real-time updates. | D3.js, Plotly.js, Chart.js | [View](#) |
-| **🛒 E-commerce Platform** | Full-stack shopping app with auth and payments. | React, Node.js, MySQL | [View](#) |
-| **🔐 Node API Auth** | RESTful API with JWT and MongoDB backend. | Node.js, Express, MongoDB | [View](#) |
-| **🤖 AI Demo with TF.js** | AI model in browser using TensorFlow.js. | TensorFlow.js, JS | [View](#) |
-| **📝 WordPress Blog** | Custom blog with themes & plugins. | PHP, WordPress | [View](#) |
+| Project | Description | Link |
+|--------|-------------|------|
+| **BBMG Exporter** | Transformer 3D Mech Vehicle Exporter using Three.js | [View](https://nsstudio-html.github.io/BBMG-EXPORTER/) |
+| **Rising Shooters Game** | 3D action game with agents, mechs, and hackers | [View](https://nsstudio-html.github.io/RS-RISING-SHOOTERS/) |
+| **NS Portfolio** | My personal creative dev portfolio site | [View](https://nsstudio-html.github.io/NS-PORTFOLIO/) |
+| **BBMECH-XT** | Special edition BB mech robot viewer | [View](https://nsstudio-html.github.io/RS-RISING-SHOOTERS/BBMECH-XT.html) |
+| **PROJECT BB** | Next-gen BB Mech concept in Rising Shooters | [View](https://nsstudio-html.github.io/RS-RISING-SHOOTERS/PROJECTBB.html) |
+| **TITAN CORE AI** | Custom AI-powered UI for Titan Core | [View](https://nsstudio-html.github.io/NS-PORTFOLIO/TITANCOREAI.html) |
+| **JARVIS AI** | Smart UI-based personal assistant demo | [View](https://nsstudio-html.github.io/NS-PORTFOLIO/JARVIS.html) |
 
 ---
 
-## 🎨 **Portfolio UI Highlights**
+### 🎥 Live Project Previews
 
-- 🚀 **Fast & Responsive**: Optimized for mobile & desktop.
-- 🎯 **Skills Grid**: Icons with external links & hover.
-- 🧩 **Modular Sections**: Clean structure (Skills, Projects, Contact).
-- 🌙 **Dark Mode Ready**
-- ⚡ **Modern Design**: Minimalist layout with dynamic effects.
+> ℹ️ If viewing this on GitHub.com, iframes won't load. Open in a markdown viewer or use a GitHub Pages site.
 
----
+#### 🔹 BBMG Exporter
+<iframe src="https://nsstudio-html.github.io/BBMG-EXPORTER/" width="100%" height="400" frameborder="0"></iframe>
 
-## 🌐 **Connect with Me**
+#### 🔹 Rising Shooters
+<iframe src="https://nsstudio-html.github.io/RS-RISING-SHOOTERS/" width="100%" height="400" frameborder="0"></iframe>
 
-- 💼 [GitHub](https://github.com/NSSTUDIO-html)
-- 💌 Email: your.email@example.com *(replace this)*
-- 💬 LinkedIn: [Update link here](#)
+#### 🔹 NS Portfolio
+<iframe src="https://nsstudio-html.github.io/NS-PORTFOLIO/" width="100%" height="400" frameborder="0"></iframe>
 
 ---
 
-> ✨ *Thank you for exploring my work — stay creative and keep coding!*
+## 📊 GitHub Stats & Tech Graphs
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NSSTUDIO-html&show_icons=true&theme=radical" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSSTUDIO-html&layout=compact&theme=radical" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NSSTUDIO-html&theme=dark&hide_border=true" width="650" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 📂 GitHub: [github.com/NSSTUDIO-html](https://github.com/NSSTUDIO-html)
+- 📧 Email: **your.email@example.com**
+- 🔗 LinkedIn: [Update your link here](#)
+
+---
+
+### 🏁 Features
+
+- 💻 Full-Stack Web Development  
+- 🧠 AI & TensorFlow.js Projects  
+- 🎮 Game-Style Web UI  
+- 🛠️ Real-Time 3D Rendering (Three.js)  
+- 🎨 Clean & Responsive Design  
+- 🔐 Cybersecurity Learning  
+- 🚀 Futuristic Tools like Titan Core AI, Jarvis UI
+
+---
+
+> ✨ *Thanks for visiting my portfolio! Let’s build something amazing together.*
