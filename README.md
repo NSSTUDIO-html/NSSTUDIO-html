@@ -44,9 +44,7 @@ My passion lies in building **immersive web apps**, **intelligent UIs**, and **f
 
 <!-- Backend & DB -->
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /></a>
-<a href="#">
-            <i class="devicon-express-original" width="40"></i>
-            </a>
+<a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh3b6p_6upSbSFobllQqyN64FTx-mxg4V6IFzjGbhIfKg5TTc3D-uD4jXd&s=10" width="40"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" /></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /></a>
 
@@ -60,7 +58,7 @@ My passion lies in building **immersive web apps**, **intelligent UIs**, and **f
 
 <!-- Tools -->
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" /></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /></a>
+<a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoh5SY3J2BsoecJ8TsxtGX-34_b5HCIG6PIA&s" width="40" /></a>
 <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_qGaG3aG8RPuXhr1uaPcLlEV2KFQ26VbICc7KQW2sgG7uKcJ4Qu2sMOU&s=10" width="40"/></a>
 <a href="#"><img src="https://apexactsoft.com/wp-content/uploads/2024/10/Tally-Prime-Logo.png" width="40" /></a>
 <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR13xqY09XH1E0x7QDyLA31Be8osy6X9tE9h_WLoDu0VM10nU3zytOSr24&s=10" width="40" /></a>
