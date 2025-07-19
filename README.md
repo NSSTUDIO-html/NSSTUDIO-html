@@ -23,46 +23,49 @@ My passion lies in building **immersive web apps**, **intelligent UIs**, and **f
 
 <div align="center">
 
-<!-- Frontend -->
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" /></a>
-<a href="#">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" /></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" /></a>
-
-<!-- AI / Data -->
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" /></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" width="40" /></a>
-<a href="#">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"
-           width="40" /></a>
-<a href="#"><img src="https://www.chartjs.org/media/logo-title.svg" width="40" /></a>
-<a href="#"><img src="https://apexcharts.com/media/apexcharts-logo.png" width="40" /></a>
-
-<!-- Backend & DB -->
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /></a>
-<a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh3b6p_6upSbSFobllQqyN64FTx-mxg4V6IFzjGbhIfKg5TTc3D-uD4jXd&s=10" width="40"/></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" /></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /></a>
-
-<!-- Programming -->
-<a href="#">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
-          </a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" /></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" /></a>
-
-<!-- Tools -->
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" /></a>
-<a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoh5SY3J2BsoecJ8TsxtGX-34_b5HCIG6PIA&s" width="40" /></a>
-<a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_qGaG3aG8RPuXhr1uaPcLlEV2KFQ26VbICc7KQW2sgG7uKcJ4Qu2sMOU&s=10" width="40"/></a>
-<a href="#"><img src="https://apexactsoft.com/wp-content/uploads/2024/10/Tally-Prime-Logo.png" width="40" /></a>
-<a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR13xqY09XH1E0x7QDyLA31Be8osy6X9tE9h_WLoDu0VM10nU3zytOSr24&s=10" width="40" /></a>
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white)
+![React.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+![Plotly.js](https://img.shields.io/badge/Plotly.js-3F4F75?logo=plotly&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chart.js&logoColor=white)
+![Google Charts](https://img.shields.io/badge/Google_Charts-4285F4?logo=google&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?logo=d3.js&logoColor=white)
+![ApexCharts](https://img.shields.io/badge/ApexCharts-FF4560?logo=apexcharts&logoColor=white)
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Turtle](https://img.shields.io/badge/Turtle-4584b6)
+![Tkinter](https://img.shields.io/badge/Tkinter-blue)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-Basics-orange)
+![Middleware](https://img.shields.io/badge/Middleware-E34F26)
+![OS](https://img.shields.io/badge/Module-OS-lightgrey)
+![Path](https://img.shields.io/badge/Module-Path-lightgrey)
+![HTTP](https://img.shields.io/badge/Module-HTTP-lightgrey)
+![FS](https://img.shields.io/badge/Module-FS-lightgrey)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Basics-blue)
+![MS Office](https://img.shields.io/badge/MS_Office-D83B01?logo=microsoft-office&logoColor=white)
+![Tally Prime](https://img.shields.io/badge/Tally_Prime-009688)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Computer Fundamentals](https://img.shields.io/badge/Computer-Fundamentals-informational)
 </div>
 
 ---
