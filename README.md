@@ -29,19 +29,24 @@ My passion lies in building **immersive web apps**, **intelligent UIs**, and **f
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" /></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" /></a>
+<a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" /></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" /></a>
 
 <!-- AI / Data -->
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" /></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" width="40" /></a>
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Plotly_logo.png" width="40" /></a>
+<a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"
+           width="40" /></a>
 <a href="#"><img src="https://www.chartjs.org/media/logo-title.svg" width="40" /></a>
 <a href="#"><img src="https://apexcharts.com/media/apexcharts-logo.png" width="40" /></a>
 
 <!-- Backend & DB -->
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" /></a>
+<a href="#">
+            <i class="devicon-express-original" width="40"></i>
+            </a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" /></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /></a>
 
