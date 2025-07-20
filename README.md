@@ -144,13 +144,17 @@ My passion lies in building **immersive web apps**, **intelligent UIs**, and **f
   <img src="https://github-readme-stats.vercel.app/api?username=NSSTUDIO-html&show_icons=true&theme=radical" width="450" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSSTUDIO-html&layout=compact&theme=radical" width="300" alt="Top Languages"/>
 </p>
-## 🌐 Languages Used Across My GitHub Repositories
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NSSTUDIO-html&layout=donut&langs_count=10&theme=radical)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NSSTUDIO-html&theme=dark&hide_border=true" width="650" alt="GitHub Streak"/>
 </p>
+
+---
+
+## 🌐 Languages Used Across My GitHub Repositories
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NSSTUDIO-html&layout=donut&langs_count=10&theme=radical)
 
 ---
 
