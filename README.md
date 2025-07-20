@@ -60,12 +60,26 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=NSSTUDIO-html&show_icons=true&theme=blue-green&border_radius=15" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSSTUDIO-html&layout=compact&theme=blue-green" width="300" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSSTUDIO-html&layout=compact&theme=blue-green&border_radius=15" width="300" />
 </p>
 
 <p align="center">
+  <!-- Contribution Streak -->
   <img src="https://streak-stats.demolab.com/?user=NSSTUDIO-html&theme=blue-green&border_radius=10" width="650" />
+</p>
+
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=NSSTUDIO-html&theme=algolia&margin-w=15&no-frame=true" width="800" />
+</p>
+
+<p align="center">
+  <!-- GitHub Achievements -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NSSTUDIO-html&theme=tokyonight" width="800"/>
 </p>
 
 ---
