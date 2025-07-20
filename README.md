@@ -130,12 +130,14 @@ My passion lies in building **immersive web apps**, **intelligent UIs**, and **f
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect with Me
 
-- 📂 GitHub: [github.com/NSSTUDIO-html](https://github.com/NSSTUDIO-html)
-- 📧 Email: **rockingshooters7@gmail.com**
-- 🔗 Instagram: [My Account IG](https://www.instagram.com/rs_risingshooters/profilecard/?igsh=ZGc5d2x1bmFibnh6)
-- 🔗 Youtube: [My YT Channel](https://youtube.com/@nstech-ns?si=MfbRmClAKd2hRR9b)
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blueviolet?style=for-the-badge&logo=google-chrome)](https://nsstudio-html.github.io/NS-PORTFOLIO/)
+[![GitHub](https://img.shields.io/badge/GitHub-NSSTUDIO--html-black?style=for-the-badge&logo=github)](https://github.com/NSSTUDIO-html)
+[![YouTube](https://img.shields.io/badge/YouTube-NS%20Tech-red?style=for-the-badge&logo=youtube)](https://youtube.com/@nstech-ns?si=4DqLMeFENAzNwb5t)
+[![Instagram](https://img.shields.io/badge/Instagram-RisingShooters-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rs_risingshooters/profilecard/?igsh=ZGc5d2x1bmFibnh6)
+[![Facebook](https://img.shields.io/badge/Facebook-NSSTUDIO-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/15fse2uopr/)
+
 ---
 
 ### 🏁 Features
