@@ -87,52 +87,27 @@
 | **Jarvis UI** | Personal assistant UI demo | [🔗 View](https://nsstudio-html.github.io/NS-PORTFOLIO/JARVIS.html) |
 
 ---
-
-<!-- 📊 GitHub Stats -->
-
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=NSSTUDIO-html&show_icons=true&theme=tokyonight&border_radius=15" 
-    width="450" 
-    alt="GitHub Stats" 
-  />
-  
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSSTUDIO-html&layout=compact&theme=tokyonight&border_radius=15" 
-    width="300" 
-    alt="Top Languages" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NSSTUDIO-html&show_icons=true&theme=tokyonight&border_radius=10" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSSTUDIO-html&layout=compact&theme=tokyonight&border_radius=10" width="300" />
 </p>
 
 <p align="center">
   <!-- Contribution Streak -->
-  <img 
-    src="https://streak-stats.demolab.com/?user=NSSTUDIO-html&theme=tokyonight&border_radius=10" 
-    width="650" 
-    alt="Contribution Streak" 
-  />
+  <img src="https://streak-stats.demolab.com/?user=NSSTUDIO-html&theme=tokyonight&border_radius=10" width="650" />
 </p>
 
 <p align="center">
   <!-- GitHub Trophies -->
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=NSSTUDIO-html&theme=tokyonight&margin-w=15&no-frame=true" 
-    width="800" 
-    alt="GitHub Trophies" 
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=NSSTUDIO-html&theme=tokyonight&margin-w=15&no-frame=true" width="800" />
 </p>
 
 <p align="center">
-  <!-- GitHub Summary Card -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NSSTUDIO-html&theme=tokyonight" 
-    width="800" 
-    alt="GitHub Profile Summary" 
-  />
+  <!-- GitHub Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NSSTUDIO-html&theme=tokyonight" width="800" />
 </p>
 
 ---
