@@ -100,12 +100,7 @@
 
 </p>
 
-<p align="center">
-  
-  <!-- Contribution Streak (ALTERNATIVE HEROKU HOSTING) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NSSTUDIO-html&theme=tokyonight&border_radius=10" width="650" alt="Contribution Streak" />
-  
-</p>
+![GitHub Streak](https://img.shields.io/badge/Current%20Streak-🔥%201%20day-blueviolet?style=for-the-badge&logo=github)
 
 <p align="center">
   
