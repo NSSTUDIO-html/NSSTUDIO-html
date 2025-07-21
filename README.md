@@ -91,24 +91,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=NSSTUDIO-html&show_icons=true&theme=tokyonight&border_radius=10" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSSTUDIO-html&layout=compact&theme=tokyonight&border_radius=10" width="300" />
+  
+  <!-- GitHub Badges -->
+  <img src="https://img.shields.io/github/followers/NSSTUDIO-html?label=Followers&style=for-the-badge&logo=github&color=blueviolet" />
+  <img src="https://img.shields.io/github/stars/NSSTUDIO-html?label=Stars&style=for-the-badge&logo=github&color=yellow" />
+  <img src="https://img.shields.io/github/repos/NSSTUDIO-html?label=Public%20Repos&style=for-the-badge&logo=github&color=orange" />
+  <img src="https://img.shields.io/github/last-commit/NSSTUDIO-html?style=for-the-badge&logo=git&color=green" />
 </p>
 
-<p align="center">
-  <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NSSTUDIO-html&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="650" />
-</p>
+---
 
+### 🔥 Contributions in 2025
 <p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=NSSTUDIO-html&theme=tokyonight&margin-w=15&no-frame=true" width="800" />
-</p>
-
-<p align="center">
-  <!-- GitHub Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NSSTUDIO-html&theme=tokyonight" width="800" />
+  <img src="https://github.com/NSSTUDIO-html/NSSTUDIO-html/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
