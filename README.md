@@ -87,6 +87,7 @@
 | **Jarvis UI** | Personal assistant UI demo | [🔗 View](https://nsstudio-html.github.io/NS-PORTFOLIO/JARVIS.html) |
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -97,7 +98,7 @@
 
 <p align="center">
   <!-- Contribution Streak -->
-  <img src="https://streak-stats.demolab.com/?user=NSSTUDIO-html&theme=tokyonight&border_radius=10" width="650" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NSSTUDIO-html&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="650" />
 </p>
 
 <p align="center">
