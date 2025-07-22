@@ -138,7 +138,7 @@
   <a href="https://youtube.com/@nstech-ns?si=4DqLMeFENAzNwb5t">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube">
   </a>
-  <a href="https://www.instagram.com/rs_risingshooters/profilecard/?igsh=ZGc5d2x1bmFibnh6">
+  <a href="https://www.instagram.com/rs_sasankml5h/profilecard/?igsh=ZGc5d2x1bmFibnh6">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
   </a>
   <a href="https://www.facebook.com/share/15fse2uopr/">
