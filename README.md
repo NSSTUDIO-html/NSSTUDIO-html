@@ -103,13 +103,14 @@
 ![GitHub Streak](https://img.shields.io/badge/Current%20Streak-🔥%201%20day-blueviolet?style=for-the-badge&logo=github)
 
 <!-- 🌟 GitHub Trophies -->
-<p align="center">
+<div align="center" style="margin: 30px 0;">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=NSSTUDIO-html&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" 
     alt="GitHub Trophies"
-    style="max-width: 100%; height: auto; border-radius: 12px;" 
+    width="100%" 
+    style="max-width: 900px; height: auto; border-radius: 12px;"
   />
-</p>
+</div>
 
 <p align="center">
   
