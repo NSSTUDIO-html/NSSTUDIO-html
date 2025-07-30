@@ -93,14 +93,14 @@
 <p align="center">
   
   <!-- 🌟 GitHub Stats -->
-<div align="center" style="margin: 30px 0;">
+
   <img 
     src="https://github-readme-stats.vercel.app/api?username=NSSTUDIO-html&show_icons=true&theme=tokyonight&border_radius=10" 
     alt="GitHub Stats" 
     width="100%" 
     style="max-width: 450px; height: auto; border-radius: 10px;" 
   />
-</div>
+
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSSTUDIO-html&layout=compact&theme=tokyonight&border_radius=10" width="300" alt="Top Languages" />
