@@ -85,30 +85,38 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  
-  <!-- 🌟 GitHub Stats -->
 
+  <!-- 🌟 GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=NSSTUDIO-html&show_icons=true&theme=tokyonight&border_radius=10" 
+    src="https://github-readme-stats.vercel.app/api?username=NSSTUDIO-html&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true" 
     alt="GitHub Stats" 
-    width="100%" 
-    style="max-width: 450px; height: auto; border-radius: 10px;" 
+    width="48%" 
   />
 
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSSTUDIO-html&layout=compact&theme=tokyonight&border_radius=10" width="300" alt="Top Languages" />
+  <!-- 🔥 Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=NSSTUDIO-html&theme=tokyonight&border_radius=12&hide_border=true" 
+    alt="GitHub Streak" 
+    width="48%" 
+  />
 
 </p>
 
-![GitHub Streak](https://img.shields.io/badge/Current%20Streak-🔥%201%20day-blueviolet?style=for-the-badge&logo=github)
-
-
-
 <p align="center">
-  
-  <!-- GitHub Profile Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NSSTUDIO-html&theme=tokyonight" width="800" alt="GitHub Profile Summary" />
+
+  <!-- 📂 Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSSTUDIO-html&layout=compact&theme=tokyonight&border_radius=12&hide_border=true" 
+    alt="Top Languages" 
+    width="48%" 
+  />
+
+  <!-- 📝 Profile Summary -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NSSTUDIO-html&theme=tokyonight" 
+    alt="GitHub Profile Summary" 
+    width="48%" 
+  />
 
 </p>
 
@@ -117,7 +125,10 @@
 ## 🧠 Languages Used Across My Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSSTUDIO-html&layout=donut&langs_count=10&theme=blue-green" width="500" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSSTUDIO-html&layout=donut&langs_count=10&theme=tokyonight&border_radius=12&hide_border=true" 
+    width="60%" 
+  />
 </p>
 
 ---
